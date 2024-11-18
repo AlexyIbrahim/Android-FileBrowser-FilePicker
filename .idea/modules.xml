@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FileBrowser.iml" filepath="$PROJECT_DIR$/FileBrowser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/filebrowser/filebrowser.iml" filepath="$PROJECT_DIR$/filebrowser/filebrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-FileBrowser-FilePicker.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-FileBrowser-FilePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.iml" filepath="$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.main.iml" filepath="$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/filebrowser/Android-FileBrowser-FilePicker.filebrowser.unitTest.iml" />
     </modules>
   </component>
 </project>
